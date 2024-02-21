@@ -41,6 +41,6 @@
     "gridDistance": 2,
     "gridUnits": "m",
     "url": "https://github.com/Zipippo/Sine_requie_system",
-    "manifest": "https://github.com/Zipippo/Sine_requie_system//releases/latest/download/system.json",
-    "download": "https://github.com/Zipippo/Sine_requie_system//releases/latest/download/system.zip"
+    "manifest": "https://github.com/Zipippo/Sine_requie_system/releases/latest/download/system.json",
+    "download": "https://github.com/Zipippo/Sine_requie_system/releases/latest/download/system.zip"
 }
